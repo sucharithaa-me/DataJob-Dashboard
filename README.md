@@ -1,5 +1,5 @@
-# Power BI Job Market Dashboard
+<h1 align="center">Power BI Job Market Dashboard</h1>
 
-## Dashboard Preview
-
-![Dashboard Preview](Dashboard1.png)
+<p align="center">
+  <img src="Dashboard1.png" width="900">
+</p>
